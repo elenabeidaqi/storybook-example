@@ -1,3 +1,4 @@
+"use client"
 import { Input as AntInput, InputProps } from 'antd';
 
 interface Props extends InputProps {

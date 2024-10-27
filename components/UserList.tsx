@@ -1,4 +1,5 @@
 // components/UserList.tsx
+"use client"
 import React, { useState } from "react";
 import { List, Avatar, Pagination, ConfigProvider } from "antd";
 import { UserOutlined } from "@ant-design/icons";

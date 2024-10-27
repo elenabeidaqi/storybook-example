@@ -1,3 +1,4 @@
+"use client"
 import customTheme from '@/theme';
 import { Button as AntButton, ButtonProps, ConfigProvider } from 'antd';
 
